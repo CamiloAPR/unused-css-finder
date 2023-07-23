@@ -5,18 +5,6 @@ Web devs are constantly working on websites that just keep growing and changing 
 ## Support
 If you find the UNUSED CSS FINDER valuable and want to support the project, consider [donating](hhttps://ko-fi.com/E1E0NCNON)! 🙏 
 
-
-## SUGGESTED NODE 📜📦
-
-```
-node>=v15.14.0
-```
-
-## INSTALL
-
-`npm i`
-
-
 ## HOW TO USE ⚙️🕷️
 
 ### 1. Install the packages `npm i` (`node>=v15.14.0`)  📜📦
