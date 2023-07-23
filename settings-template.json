@@ -1,0 +1,9 @@
+{
+  "cssFile": "http://website.local/wp-content/themes/my-theme/style.css",
+  "urls": [
+    "http://website.local/",
+    "http://website.local/sitemap_index.xml",
+    "http://website.local/blog"
+
+  ]
+}
